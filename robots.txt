@@ -1,1 +1,1 @@
-Sitemap: https://bengsoon.github.io/gradienttape/sitemap.xml
+Sitemap: https://gradienttape.com/sitemap.xml
