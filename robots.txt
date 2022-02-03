@@ -1,1 +1,1 @@
-Sitemap: https://gradienttape.com/sitemap.xml
+Sitemap: https://gradienttape.com/gradienttape/sitemap.xml
